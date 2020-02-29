@@ -1,5 +1,5 @@
-# 忽略文件或文件夹列表
+﻿# 忽略文件或文件夹列表
 __pycache__/
 *.py[cod]
 
-database/db_config.py
+/database/db_config.py
