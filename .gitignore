@@ -2,4 +2,4 @@
 __pycache__/
 *.py[cod]
 
-database/config.py
+database/db_config.py
