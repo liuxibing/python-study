@@ -105,9 +105,12 @@ def find_element(browser, url=''):
         browser.find_element_by_partial_link_text()
         browser.find_element_by_tag_name()
         browser.find_element_by_class_name()   
-    元素的常用方法：
+    元素的常用属性和方法：
+        element.text
+        element.tag_name
         element.get_attribute() 
         element.send_key()
+        element.click()
     """
     url = _url if url=='' else url
     browser.get(url)
@@ -120,7 +123,6 @@ def find_element(browser, url=''):
     e_input = browser.find_element_by_name('wd')
     print('Input Id: ',e_input.get_attribute('id'))
     print('Input Name: ',e_input.get_attribute('name'))
-    print('Input Text: ',e_input.text)
     
 
 if __name__ == "__main__":
