@@ -3,3 +3,4 @@ __pycache__/
 *.py[cod]
 
 /database/db_config.py
+/crawler/sp_selenium_ainoob.py

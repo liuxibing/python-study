@@ -2,6 +2,7 @@
 
 """
 通过SQLAlchemy访问数据库的全局封装
+参考资料：http://www.ainoob.cn/bigdata/sqlalchemy/sqlalchemy-operations.html
 
 Author: ainoob.cn
 Email: 535334234@qq.com
