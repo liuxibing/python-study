@@ -1,0 +1,48 @@
+2020-03-11 11:04:54 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2020-03-11 11:06:15 autoreload.trigger_reload: D:\Workspaces\python-study\django\poll\poll\settings.py changed, reloading.
+2020-03-11 11:07:02 INFO [4756-MainThread] autoreload.run_with_reloader line 598: Watching for file changes with StatReloader
+2020-03-11 11:13:51 INFO [4756-MainThread] autoreload.trigger_reload line 222: D:\Workspaces\python-study\django\poll\poll\settings.py changed, reloading.
+2020-03-11 11:17:17 INFO [26172-MainThread] autoreload.run_with_reloader line 598: Watching for file changes with StatReloader
+2020-03-11 11:17:49 INFO [26172-MainThread] autoreload.trigger_reload line 222: D:\Workspaces\python-study\django\poll\poll\urls.py changed, reloading.
+2020-03-11 11:17:57 INFO [20244-MainThread] autoreload.run_with_reloader line 598: Watching for file changes with StatReloader
+2020-03-11 11:19:04 INFO [20244-MainThread] autoreload.trigger_reload line 222: D:\Workspaces\python-study\django\poll\poll\urls.py changed, reloading.
+2020-03-11 11:19:10 INFO [11812-MainThread] autoreload.run_with_reloader line 598: Watching for file changes with StatReloader
+2020-03-11 11:20:27 INFO [11812-MainThread] autoreload.trigger_reload line 222: D:\Workspaces\python-study\django\poll\poll\settings.py changed, reloading.
+2020-03-11 11:20:34 INFO [19664-MainThread] autoreload.run_with_reloader line 598: Watching for file changes with StatReloader
+2020-03-11 11:21:15 INFO [19664-MainThread] autoreload.trigger_reload line 222: D:\Workspaces\python-study\django\poll\poll\urls.py changed, reloading.
+2020-03-11 11:21:22 INFO [28836-MainThread] autoreload.run_with_reloader line 598: Watching for file changes with StatReloader
+2020-03-11 11:21:38 INFO [28836-MainThread] autoreload.trigger_reload line 222: D:\Workspaces\python-study\django\poll\poll\urls.py changed, reloading.
+2020-03-11 11:21:45 INFO [19652-MainThread] autoreload.run_with_reloader line 598: Watching for file changes with StatReloader
+2020-03-11 11:21:53 INFO [19652-Thread-1] basehttp.log_message line 157: "GET / HTTP/1.1" 200 9635
+2020-03-11 11:21:53 INFO [19652-Thread-1] basehttp.log_message line 157: "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 200 14984
+2020-03-11 11:21:53 INFO [19652-Thread-2] basehttp.log_message line 157: "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 200 12791
+2020-03-11 11:21:53 INFO [19652-Thread-2] basehttp.log_message line 157: "GET /static/debug_toolbar/img/ajax-loader.gif HTTP/1.1" 200 404
+2020-03-11 11:21:56 INFO [19652-Thread-2] basehttp.log_message line 157: "GET /static/debug_toolbar/css/print.css HTTP/1.1" 200 41
+2020-03-11 11:21:56 INFO [19652-Thread-2] basehttp.log_message line 157: "GET /static/debug_toolbar/img/djdt_vertical.png HTTP/1.1" 200 882
+2020-03-11 11:22:03 INFO [19652-Thread-1] basehttp.log_message line 157: "GET /static/debug_toolbar/img/indicator.png HTTP/1.1" 200 436
+2020-03-11 11:22:03 INFO [19652-Thread-3] basehttp.log_message line 157: "GET /static/debug_toolbar/img/close.png HTTP/1.1" 200 498
+2020-03-11 11:22:03 INFO [19652-Thread-2] basehttp.log_message line 157: "GET /__debug__/render_panel/?store_id=4a85500bc61349f7827910e5c5b69842&panel_id=SQLPanel HTTP/1.1" 200 32160
+2020-03-11 11:22:36 INFO [19652-Thread-2] basehttp.log_message line 157: "GET / HTTP/1.1" 200 9634
+2020-03-11 11:22:44 INFO [19652-Thread-2] basehttp.log_message line 157: "GET /report/ HTTP/1.1" 200 10426
+2020-03-11 11:22:46 INFO [19652-Thread-5] basehttp.log_message line 157: "GET /teachers_data/ HTTP/1.1" 200 58
+2020-03-11 11:22:56 INFO [19652-Thread-2] basehttp.log_message line 157: "GET /__debug__/render_panel/?store_id=b8364b19258c4b13a91096466cb17b49&panel_id=SQLPanel HTTP/1.1" 200 17065
+2020-03-11 11:23:22 INFO [19652-Thread-2] basehttp.log_message line 157: "GET /__debug__/render_panel/?store_id=b8364b19258c4b13a91096466cb17b49&panel_id=VersionsPanel HTTP/1.1" 200 556
+2020-03-11 11:23:25 INFO [19652-Thread-2] basehttp.log_message line 157: "GET /__debug__/render_panel/?store_id=b8364b19258c4b13a91096466cb17b49&panel_id=SettingsPanel HTTP/1.1" 200 26201
+2020-03-11 11:23:34 INFO [19652-Thread-2] basehttp.log_message line 157: "GET /__debug__/render_panel/?store_id=b8364b19258c4b13a91096466cb17b49&panel_id=HeadersPanel HTTP/1.1" 200 2840
+2020-03-11 11:23:45 INFO [19652-Thread-2] basehttp.log_message line 157: "GET /__debug__/render_panel/?store_id=b8364b19258c4b13a91096466cb17b49&panel_id=RequestPanel HTTP/1.1" 200 1714
+2020-03-11 11:23:47 INFO [19652-Thread-2] basehttp.log_message line 157: "GET /__debug__/render_panel/?store_id=b8364b19258c4b13a91096466cb17b49&panel_id=StaticFilesPanel HTTP/1.1" 200 32527
+2020-03-11 11:23:48 INFO [19652-Thread-2] basehttp.log_message line 157: "GET /__debug__/render_panel/?store_id=b8364b19258c4b13a91096466cb17b49&panel_id=TemplatesPanel HTTP/1.1" 200 3241
+2020-03-11 11:23:49 INFO [19652-Thread-2] basehttp.log_message line 157: "GET /__debug__/render_panel/?store_id=b8364b19258c4b13a91096466cb17b49&panel_id=CachePanel HTTP/1.1" 200 811
+2020-03-11 11:24:22 INFO [19652-MainThread] autoreload.trigger_reload line 222: D:\Workspaces\python-study\django\poll\poll\urls.py changed, reloading.
+2020-03-11 11:24:28 INFO [19960-MainThread] autoreload.run_with_reloader line 598: Watching for file changes with StatReloader
+2020-03-11 11:24:33 INFO [19960-Thread-1] basehttp.log_message line 157: "GET /report/ HTTP/1.1" 200 10428
+2020-03-11 11:24:33 INFO [19960-Thread-1] basehttp.log_message line 157: "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 304 0
+2020-03-11 11:24:33 INFO [19960-Thread-2] basehttp.log_message line 157: "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 304 0
+2020-03-11 11:24:33 INFO [19960-Thread-2] basehttp.log_message line 157: "GET /static/debug_toolbar/img/ajax-loader.gif HTTP/1.1" 304 0
+2020-03-11 11:24:35 INFO [19960-Thread-2] basehttp.log_message line 157: "GET /static/debug_toolbar/css/print.css HTTP/1.1" 304 0
+2020-03-11 11:24:35 INFO [19960-Thread-7] basehttp.log_message line 157: "GET /teachers_data/ HTTP/1.1" 200 58
+2020-03-11 11:24:39 INFO [19960-Thread-2] basehttp.log_message line 157: "GET /static/debug_toolbar/img/djdt_vertical.png HTTP/1.1" 304 0
+2020-03-11 11:24:53 INFO [19960-MainThread] autoreload.trigger_reload line 222: D:\Workspaces\python-study\django\poll\poll\settings.py changed, reloading.
+2020-03-11 11:26:49 INFO [29292-MainThread] autoreload.run_with_reloader line 598: Watching for file changes with StatReloader
+2020-03-11 14:51:48 INFO [29292-MainThread] autoreload.trigger_reload line 222: D:\Workspaces\python-study\django\poll\poll\settings.py changed, reloading.
+2020-03-11 14:51:56 INFO [18384-MainThread] autoreload.run_with_reloader line 598: Watching for file changes with StatReloader
